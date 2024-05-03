@@ -1,0 +1,53 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+}
+
+#grad1 {
+    height: 200px;
+    background-image: linear-gradient(to right, rgba(255, 0, 0, 0), rgb(0, 170, 255));
+    border: 15px ridge rgb(60, 191, 243);
+}
+ul {
+  font-family: verdana;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  padding: 14px 16px;
+  text-decoration:none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 0;
+  width: 100%;
+}

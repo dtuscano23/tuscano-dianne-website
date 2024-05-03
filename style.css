@@ -1,0 +1,86 @@
+label {
+    font-size: 35px;
+    color: black;
+}
+
+button {
+    padding: 5px;
+    color: black;
+    font-size: 15px;
+    background-color: aqua;
+}
+
+#userLabel {
+    background-color: purple;
+}
+
+#passLabel {
+    background-color: violet;
+}
+
+.labelStyle {
+    background-color: rgb(127, 255, 168);
+}
+
+.forgot:link {
+    font-size: 20px;
+    color: black;
+    font-style: none;
+}
+
+.forgot:hover {
+    font-size: 15px;
+    color: orange;
+    background-color: yellow;
+}
+
+.forgot:visited {
+    background-color: green;
+}
+
+.forgot:active {
+    background-color: pink;
+}
+
+.button:hover {
+    font-size: 10px;
+    color: black;
+    background-color: yellow;
+}
+
+.button:visited {
+    font-size: 10px;
+    background-color: yellowgreen;
+}
+
+.button:active {
+    font-size: 10px;
+    background-color: violet;
+}
+
+button {
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+
+    border: 5px solid limegreen;
+
+    margin-top: 60px;
+}
+
+body {
+
+    background-color: rgb(196, 238, 255);
+    margin-top: 60px;
+    border: 15px ridge rgb(60, 243, 60);
+}
+
+table {
+    margin-top: -80px;
+    background-color:bisque;
+}
+
+#error {
+    color: red;
+}
